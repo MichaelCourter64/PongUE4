@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PongUE4.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Michael Courter\Documents\Repos\PongUE4\PongUE4\Intermediate\Build\Win64\PongUE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Michael Courter\Documents\Repos\PongUE4\PongUE4\Intermediate\Build\Win64\UE4Editor\Development\PongUE4\PongUE4.cpp.obj"
+"C:\Users\Michael Courter\Documents\Repos\PongUE4\PongUE4\Intermediate\Build\Win64\UE4Editor\Development\PongUE4\PongUE4GameModeBase.cpp.obj"
+"C:\Users\Michael Courter\Documents\Repos\PongUE4\PongUE4\Intermediate\Build\Win64\UE4Editor\Development\PongUE4\PongUE4.init.gen.cpp.obj"
+"C:\Users\Michael Courter\Documents\Repos\PongUE4\PongUE4\Intermediate\Build\Win64\UE4Editor\Development\PongUE4\PongUE4GameModeBase.gen.cpp.obj"
+"C:\Users\Michael Courter\Documents\Repos\PongUE4\PongUE4\Intermediate\Build\Win64\UE4Editor\Development\PongUE4\Default.rc2.res"
+/OUT:"C:\Users\Michael Courter\Documents\Repos\PongUE4\PongUE4\Intermediate\Build\Win64\UE4Editor\Development\PongUE4\UE4Editor-PongUE4.lib"
+/INCLUDE:IMPLEMENT_MODULE_PongUE4

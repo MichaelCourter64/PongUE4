@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Michael Courter\\Documents\\Repos\\PongUE4\\PongUE4\\Source\\PongUE4\\PongUE4.Build.cs",
+		"C:\\Users\\Michael Courter\\Documents\\Repos\\PongUE4\\PongUE4\\Source\\PongUE4.Target.cs",
+		"C:\\Users\\Michael Courter\\Documents\\Repos\\PongUE4\\PongUE4\\Source\\PongUE4Editor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
