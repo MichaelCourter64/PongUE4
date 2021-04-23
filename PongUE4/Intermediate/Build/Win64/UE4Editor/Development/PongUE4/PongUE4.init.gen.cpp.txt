@@ -1,3 +1,0 @@
-C:\Users\Michael Courter\Documents\Repos\PongUE4\PongUE4\Intermediate\Build\Win64\UE4Editor\Development\PongUE4\Definitions.PongUE4.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
